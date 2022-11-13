@@ -1,2 +1,2 @@
-# pytorchVAE
-An Implementation of Variational AutoEncoders using PyTorch
+# PytorchAE
+An Implementation of AutoEncoders using PyTorch
